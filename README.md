@@ -6,7 +6,7 @@
 
 ## 下载使用
 
-1. 到 GitHub Releases 下载 `Codex用量.zip`。
+1. 直接下载仓库里的 `release/CodexUsage.zip`，或到 GitHub Releases 下载 `Codex用量.zip`。
 2. 解压后打开 `Codex 用量.app`。
 3. 如果 macOS 提示无法验证开发者，右键点击 App，选择“打开”。
 
